@@ -1,0 +1,9 @@
+{
+    "name": "MapsReysherS1",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Maps created specifically to be played with the Map_Embiggener mod at 1.50 size And LocalZoom mod",
+    "dependencies": [
+        "olavim-MapsExtendedEditor-0.9.5"
+    ]
+}
