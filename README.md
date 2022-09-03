@@ -9,3 +9,6 @@ Version 1.0.2
 
 Version 1.0.3
 -8 New Maps!
+
+Version 1.0.4
+-5 New Maps!
